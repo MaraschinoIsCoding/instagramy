@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/MaraschinoIsCoding/instagramy/blob/master/Nov-16-2020%2020-19-03.gif' title='' width=250 alt='' />
