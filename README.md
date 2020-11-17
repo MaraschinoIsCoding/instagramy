@@ -25,3 +25,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/MaraschinoIsCoding/instagramy/blob/master/Nov-16-2020%2020-19-03.gif' title='' width=250 alt='' />
+
+<img src='https://github.com/MaraschinoIsCoding/instagramy/blob/master/icon%20%26%20launch.gif' title='' width=250 alt='' />
